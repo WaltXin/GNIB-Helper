@@ -13,8 +13,8 @@ In Chrome/FireFox: Press F12
 #### 3. Input code:Copy the following code to console
 ```js
 // change to the date range you want  yyyy/mm/dd
-var fromDate = new Date('2018/08/05');
-var toDate = new Date('2018/10/25');
+var fromDate = new Date('2019/01/05');
+var toDate = new Date('2019/02/25');
 fromDate.setHours(0, 0, 0, 0);
 toDate.setHours(0, 0, 0, 0);
 
